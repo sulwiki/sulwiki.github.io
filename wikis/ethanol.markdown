@@ -7,14 +7,11 @@ permalink: ethanol
 # 乙醇 Ethanol
 
 抑制剂: 降低使用者的觉醒和刺激的药物，其特征在于抑制精神和身体功能。
-{: .label .text-alpha .label-yellow }
 
 有成瘾性: 引起习惯养成行为的风险更高，请特别注意服用的数量和频率。
-{: .label .text-alpha .label-red }
-
 
 常见物质: 是药物界广泛使用的药物，但不一定意味着它们是安全的。
-{: .label .text-alpha .label-blue }
+
 
 
 ## 别名

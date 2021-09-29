@@ -7,14 +7,11 @@ permalink: nicotine
 # Nicotine 尼古丁
 
 有成瘾性: 引起习惯养成行为的风险更高，请特别注意服用的数量和频率。
-{: .label .text-alpha .label-red }
-
 
 常见物质: 是药物界广泛使用的药物，但不一定意味着它们是安全的。
-{: .label .text-alpha .label-blue }
 
 促智藥: 可以改善认知功能、记忆力、创造力、动机的物质，还可以帮助减少焦虑。
-{: .label .text-alpha .label-green }
+
 
 ## 别名
 香烟
